@@ -1,0 +1,14 @@
+:root {
+  --color: #00CBFF; 
+  --highlight-color:#00A0CC;
+  --background-color: #08181F;
+  --background-color-dark: #040C0F;
+  --navbar-background-color: #02040f;
+  --base-text-size: 1.33rem;
+  --strong-text-size: 3vw;
+  --h1-text-size: 5rem;
+  --small-text-size: 1rem;
+  --positive: #0044ff;
+  --negative: #008888;
+  --description: #FFFF88;
+}

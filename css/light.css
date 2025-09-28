@@ -1,0 +1,13 @@
+:root {
+  --color: #BBFFCC; /*basic text color*/
+  --highlight-color:#FFFFBB; /*high color*/
+  --background-color: #112218;
+  --background-color-dark: #001108;
+  --navbar-background-color: #224422;
+  --base-text-size: 40px;
+  --h1-text-size: 80px;
+  --small-text-size: 20px;
+  --positive: #00ff00;
+  --negative: #ff0000;
+  --description: #FFFF88;
+}
